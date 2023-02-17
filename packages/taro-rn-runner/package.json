@@ -50,11 +50,11 @@
     "acorn": "^8.0.4",
     "expo": "~48.0.0",
     "expo-file-system": "~15.2.2",
-    "react": "18.1.0",
+    "react": "18.2.0",
     "react-is": "^16.13.0",
-    "react-native": "^0.70.5",
+    "react-native": "^0.71.3",
     "react-native-root-siblings": "^4.1.1",
-    "react-test-renderer": "18.1.0",
+    "react-test-renderer": "18.2.0",
     "rollup": "^2.79.0"
   }
 }

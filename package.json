@@ -176,7 +176,7 @@
     "packageExtensions": {
       "react-native-root-siblings": {
         "peerDependencies": {
-          "react": "18.1.0"
+          "react": "18.2.0"
         },
         "peerDependenciesMeta": {
           "react": {
